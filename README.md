@@ -2,7 +2,6 @@
 
 **The police get a wallet address. KAIZEN turns it into the name of an exchange and a signed legal notice, in under a minute.**
 
-Built for **Smart India Hackathon 2026, Problem Statement 26183** — cryptocurrency fraud detection and exchange attribution.
 
 ## The problem
 
